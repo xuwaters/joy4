@@ -124,7 +124,7 @@ type Stream interface {
 	Track() *gortsplib.Track
 }
 
-const ptsOffset = 2 * time.Second
+const ptsOffset = 0 * time.Second
 
 type VideoStream struct {
 	codecData   av.VideoCodecData
