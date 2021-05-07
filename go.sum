@@ -1,5 +1,5 @@
-github.com/aler9/gortsplib v0.0.0-20210506153748-3cd72fd83033 h1:oixh4roSknElsRVl9xiHeRZvmC/bvrRUiabvu515pto=
-github.com/aler9/gortsplib v0.0.0-20210506153748-3cd72fd83033/go.mod h1:zVCg+TQX445hh1pC5QgAuuBvvXZMWLY1XYz626dGFqY=
+github.com/aler9/gortsplib v0.0.0-20210507133648-caab8c908245 h1:07JnQQwggiBI522bixbZClaB9TZVXflIS2V+GZKkafs=
+github.com/aler9/gortsplib v0.0.0-20210507133648-caab8c908245/go.mod h1:zVCg+TQX445hh1pC5QgAuuBvvXZMWLY1XYz626dGFqY=
 github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e/go.mod h1:F5haX7vjVVG0kc13fIWeqUViNPyEJxv/OmvnBo0Yme4=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
